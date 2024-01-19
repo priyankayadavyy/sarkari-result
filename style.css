@@ -1,0 +1,77 @@
+table{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin: auto;
+    border: 2px;
+    padding-bottom: 1px;
+}
+.bgc{
+    background-color: brown;
+    color: #ffffff;
+}
+a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+.AP{
+    background-color: black;
+    color: white;
+}
+h2{
+    text-align: center;
+}
+.TWH{
+    width: auto;
+    height: auto;
+    border-radius: 2px;
+}
+#A{
+    
+    background-color: rgb(100, 27, 8);
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+#B{
+    background-color: rebeccapurple;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+#C{
+    background-color: rosybrown;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+#D{
+    background-color: gold;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+#E{
+    background-color: palevioletred;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+#F{
+    background-color: purple;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+#G{
+    background-color: yellowgreen;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+#H{
+    background-color: blue;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+li{
+    padding-bottom: 1px;
+}
+p{
+    margin-bottom: 0px 1oopx;
+    text-align: center;
+}
